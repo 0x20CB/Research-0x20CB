@@ -4,6 +4,17 @@
 
 Written by 0x20CB (Joseph P. Tortorelli)
 
+## Introduction
+
+## Metadata
+
+**Address Space:** 40 addresses (192-512 bits, with each byte counting)
+
+**Hasher:** BLAKE2 (BLAKE2B, BLAKE2s)
+
+**Encoding:** Hexadecimal
+
+
 ## Liberato Addressing Scheme
 
 To create the addressing scheme, we use the hash function `blake2s` and `blake2b` to create digests of variable length, which is then encoded in hexadecimal.
