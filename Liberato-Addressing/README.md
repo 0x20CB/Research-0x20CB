@@ -8,7 +8,7 @@ Written by 0x20CB (Joseph P. Tortorelli)
 
 ## Metadata
 
-**Address Space:** 40 addresses (192-512 bits, with each byte counting)
+**Address Space:** 44 addresses (160-512 bits, with each byte counting)
 
 **Hasher:** BLAKE2 (BLAKE2B, BLAKE2s)
 
